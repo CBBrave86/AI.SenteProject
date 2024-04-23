@@ -1,4 +1,4 @@
-# Project Title: "AI.Sente - Empowering Money Transfers to Third World Countries"
+# AI.Sente - Empowering Money Transfers to Third World Countries
 
 Final Project for the Building AI course.
 
@@ -37,11 +37,9 @@ Future enhancements for AI.Sente may include expanding its coverage to additiona
 
 ## Acknowledgments
 
-* Elements of AI and Building AI course by Reaktor and University of Helsinki
+* Elements of AI and Building AI course by MinnaLearn and University of Helsinki
 * Insights and inspiration from the challenges faced by individuals from third world countries like Uganda when sending
   money to their families.
-* 
+* Inspirations from e-commerce platforms like Amazon, emphasizing customer-centric approaches.
 
-## Project GitHub:
-
-* Link: 
+-------
